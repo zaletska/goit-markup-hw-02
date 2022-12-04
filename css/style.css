@@ -12,11 +12,9 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
-}
-p {
-  line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
 .list {
   list-style: none;
 }
@@ -43,7 +41,6 @@ p {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
   text-decoration: none;
 }
 .site-nav .link:hover,
@@ -58,7 +55,6 @@ p {
   font-size: 16px;
   line-height: 1.5;
   color: var(--text-color);
-  letter-spacing: 0.02em;
   text-decoration: none;
 }
 .contacts-link:hover,
@@ -76,7 +72,6 @@ p {
   font-weight: 500;
   font-size: 56px;
   line-height: 1.07;
-  letter-spacing: 0.02em;
   text-align: center;
 }
 
@@ -101,7 +96,6 @@ p {
   font-weight: 500;
   font-size: 36px;
   line-height: 1.11;
-  letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
 }
@@ -124,7 +118,6 @@ p {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 0.02em;
 }
 .team {
   background: var(--light-color);
